@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "@giphy/js-fetch-api": "^5.5.0",
+    "config.json": "^0.0.4",
+    "discord.js": "^14.15.2",
+    "express": "^4.19.2",
+    "genius": "^0.0.2",
+    "genius-api": "^0.4.1",
+    "genius-lyrics": "^4.4.7",
+    "genius-lyrics-api": "^3.2.1",
+    "genius-lyrics-userscript": "^5.11.0",
+    "giphy-api": "^2.0.2",
+    "llyrics": "^1.0.6",
+    "lodash": "^4.17.21",
+    "lyricsovh-lib": "^1.0.2",
+    "musixmatch": "^0.1.6",
+    "quizzcord": "^1.0.10",
+    "soundcloud-downloader": "^1.0.0",
+    "spotify-web-api-node": "^5.0.2",
+    "yt-search": "^2.11.0",
+    "ytdl-core": "^4.11.5"
+  }
+}

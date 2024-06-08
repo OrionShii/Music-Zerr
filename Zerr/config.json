@@ -1,0 +1,11 @@
+{
+    "token": "Add Ur Discord Token Bot",
+    "prefix": "!",
+    "spotifyClientId": "Add Ur Spotify API Token",
+    "spotifyClientSecret": "Add Ur Spotify API Token",
+    "geniusApiKey": "Add Ur Genius API Token",
+    "giphyApiKey": "Add Ur Giphy API",
+    "discordClientId": "Add Ur Discord Client ID",
+    "discordClientSecret": "Add Ur Discord Client Secret",
+    "baseURL": "http://localhost:3000"
+}
