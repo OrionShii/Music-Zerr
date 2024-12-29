@@ -15,6 +15,8 @@ Music-Zerr is a comprehensive Discord bot designed to elevate your music listeni
    - **Playback Controls:** Commands for play, pause, resume, skip, stop, and more.
    - **Lyrics Display:** Retrieve and display lyrics for the current song using the Genius API (some features still under development).
 
+![image](https://github.com/user-attachments/assets/add925a1-6438-4a0f-90a6-190fd7231d1f)
+
 2. **Server Management:**
    - **Automated Moderation:** Includes tools for managing your server and moderating content.
    - **Custom Commands:** Create and execute custom commands to enhance server interaction.
@@ -88,5 +90,5 @@ Music-Zerr is a comprehensive Discord bot designed to elevate your music listeni
 Music-Zerr is an all-encompassing music bot for Discord that provides a wide range of features for playing and managing music within your server. It offers robust queue management, integration with multiple music platforms, and interactive commands to enhance your server's music experience. Although some features are still being refined, Music-Zerr is a promising tool for any music-loving community on Discord.
 
 ---
-
+Note: `This feature is currently in beta and still under development.`
 **Note:** Some commands like `lyrics`, `quiz`, and `volume` are still under development and may not work properly. Efforts are being made to resolve these issues, and updates will be released soon.
